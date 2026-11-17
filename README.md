@@ -4,9 +4,9 @@
 
 Most "prompt improver" tools just ask an LLM to rewrite your prompt and hope for the best. PromptForge closes the loop: **analyze → rewrite → score**, so every improvement comes with evidence.
 
-![Original vs optimized prompt](docs/screenshot-prompts.png)
+![Original vs optimized prompt](docs/screenshot_prompts.png)
 
-![Scores and run history](docs/screenshot-scores.png)
+![Scores and run history](docs/screenshot_scores.png)
 
 ## Results
 
